@@ -1,3 +1,4 @@
+Hi, I'AM Ocean
 <!--
 **OceanLcJ/OceanLcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +15,5 @@ Here are some ideas to get you started:
 -->
 
 
--![Github Stats](https://github-readme-stats.vercel.app/api?username=OceanLcj&show_icons=true&theme=dark&count_private=true)
--![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OceanLcj&theme=dark&layout=compact)
--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=OceanLcj&show_icons=true&theme=dark&count_private=true)
+
