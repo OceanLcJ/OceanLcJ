@@ -1,4 +1,6 @@
 Hi, I'AM Ocean
+
+<img src="https://github.com/reeveng/reeveng/blob/master/svg.svg"/>
 <!--
 **OceanLcJ/OceanLcj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +17,4 @@ Here are some ideas to get you started:
 -->
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=OceanLcj&show_icons=true&theme=dark&count_private=true)
 
